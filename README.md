@@ -195,7 +195,7 @@ print(f"Monthly percentage of delays per airport:\n{monthly_airport_delays_df}")
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your_username/flight-data-analysis.git
+    git clone https://github.com/akamal341/flight-data-analysis.git
     cd flight-data-analysis
     ```
 
